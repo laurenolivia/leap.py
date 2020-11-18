@@ -14,6 +14,7 @@ def leap_challenge(n):
         current = next_num
     return current  
 
+
 print(leap_challenge(-20))
 print(leap_challenge(0))
 print(leap_challenge(10))             
