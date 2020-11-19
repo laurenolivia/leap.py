@@ -20,4 +20,4 @@ Write a function that returns the sum of the previous two numbers (Fibonacci's s
 
 - input: -10, output: -1
 
-[Solution](https://github.com/laurenolivia/leap.py/blob/master/leap.py)
+[Solution](https://github.com/laurenolivia/leap.py/blob/master/fib.py)
