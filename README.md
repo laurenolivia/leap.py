@@ -1,5 +1,5 @@
 ### Problem:
-Write a function that returns the sum of the previous two numbers (Fibonacci's sequence) <br>
+Write a function that returns the sum of the previous two numbers (Fibonacci sequence) <br>
 
 - input: integer
 - output: integer
