@@ -1,5 +1,5 @@
 
-def leap_challenge(n):
+def fib_challenge(n):
     
     if n < 0:            
         return -1
@@ -16,6 +16,6 @@ def leap_challenge(n):
     return current  
 
 
-print(leap_challenge(-20))
-print(leap_challenge(0))
-print(leap_challenge(10))             
+print(fib_challenge(-20))
+print(fib_challenge(0))
+print(fib_challenge(10))             
